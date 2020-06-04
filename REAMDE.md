@@ -37,3 +37,4 @@
 * <a href="https://www.jesuisundev.com/competences-clefs-pour-developpeurs/">Les compétences clefs pour développeurs</a>
 * <a href="https://www.jesuisundev.com/ego-des-developpeurs/">L'ego des développeurs</a>
 * <a href="https://git-scm.com/doc">git doc</a>
+* <a href="https://www.jesuisundev.com/gagne-du-temps-avec-visual-studio-code/">Emmet VSCode</a>
